@@ -1,0 +1,77 @@
+[33mcommit cf5f6627155eab8644013bf7ba67ebbceb65e4d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m)[m
+Author: Ebrahim Sheyki <ebrahim.sheyki@gmail.com>
+Commit: Ebrahim Sheyki <ebrahim.sheyki@gmail.com>
+
+    shahin wrapper, the first version
+
+[33mcommit 0bf06b418c76740f4736020fc836fba595df1fec[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    bug fixed
+
+[33mcommit 40e85eb4cb937be944f9f690cc4b7be78ee2c1d0[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    bug fixed
+
+[33mcommit cab6c3b4d81e537bb3b5d81bd0129469c7a04b02[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    bug fixed
+
+[33mcommit 8da4dfb775e9e499db220468616281fae7c326fe[m
+Author: m.nateghi <m.nateghi@ham-sun.com>
+Commit: m.nateghi <m.nateghi@ham-sun.com>
+
+    shahin_ add resourceGroup -> cheque,customer,inquiry
+
+[33mcommit 665dfafdc7084d87fed3c0cedf782b6d007392b8[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    change header
+
+[33mcommit 2c825a60c17fa5cca67d39318ee87ec4f6fc5924[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    get token and ignore ssl in dev profile
+
+[33mcommit c9274ad0f5e5145305532aece572fa65c0549a8a[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    import certificate to cacerts programmatically
+
+[33mcommit ac900db9a18d6407eced56373057ff377c3e4c94[m
+Author: m.nateghi <m.nateghi@ham-sun.com>
+Commit: m.nateghi <m.nateghi@ham-sun.com>
+
+    shahin_ add resourceGroup -> billPayment,BlockAmount,Card
+
+[33mcommit a3fcc853b41e7862e36a9f86452f8fc65c4f53fc[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    add createBearerToken method
+
+[33mcommit 0aca9a198192f9410cc07a3b95d80a1c14e9b285[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    SwaggerConfig
+
+[33mcommit a32e44bb44445c15285d0b22f4e9b003717a75e9[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    add client secret and client id
+
+[33mcommit e78b5b9773134f58abeab90bb15cfd85ec86d9ed[m
+Author: h.gharib <h.gharib@ham-sun.com>
+Commit: h.gharib <h.gharib@ham-sun.com>
+
+    Initial commit
